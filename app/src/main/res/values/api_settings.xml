@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="api_key">cacde3272e7cba353b25f71e317acdbf</string>
+    <string name="cover_photo_url">http://image.tmdb.org/t/p/w342</string>
+    <string name="poster_url">http://image.tmdb.org/t/p/w185</string>
+    <string name="base_url">http://api.themoviedb.org/3/discover/movie?certification_country=US&amp;certification=R</string>
+</resources>
